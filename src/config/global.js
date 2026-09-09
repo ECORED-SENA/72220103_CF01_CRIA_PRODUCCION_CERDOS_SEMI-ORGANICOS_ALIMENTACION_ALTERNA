@@ -304,13 +304,100 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Alimentación alterna',
+      significado:
+        'uso de materias primas locales para complementar la dieta porcina balanceada.',
+    },
+    {
+      termino: 'Balanceo de raciones',
+      significado:
+        'cálculo técnico de nutrientes para cubrir los requerimientos nutricionales del cerdo.',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'medidas preventivas que reducen los riesgos sanitarios dentro de la explotación porcina.',
+    },
+    {
+      termino: 'Bienestar animal',
+      significado:
+        'condiciones que garantizan la salud, el confort, la alimentación y el comportamiento natural del cerdo.',
+    },
+    {
+      termino: 'Conversión alimenticia',
+      significado:
+        'relación entre el alimento consumido y la ganancia de peso obtenida.',
+    },
+    {
+      termino: 'Etapa productiva',
+      significado:
+        'fase fisiológica del cerdo con requerimientos nutricionales específicos.',
+    },
+    {
+      termino: 'Formulación de raciones',
+      significado:
+        'proceso de combinar ingredientes para obtener una dieta balanceada.',
+    },
+    {
+      termino: 'Materia prima',
+      significado:
+        'ingrediente utilizado para elaborar alimentos destinados a los cerdos.',
+    },
+    {
+      termino: 'Producción semi-orgánica',
+      significado:
+        'sistema que integra alimentación alterna, bienestar animal y sostenibilidad productiva.',
+    },
+    {
+      termino: 'Programa alimenticio',
+      significado:
+        'plan técnico para suministrar alimento según las necesidades nutricionales del lote.',
+    },
+    {
+      termino: 'Ración balanceada',
+      significado:
+        'mezcla de ingredientes que aporta nutrientes en proporciones adecuadas.',
+    },
+    {
+      termino: 'Requerimientos nutricionales',
+      significado:
+        'cantidad de nutrientes necesaria para el crecimiento, la reproducción y el mantenimiento del cerdo.',
+    },
+    {
+      termino: 'Suplementación',
+      significado:
+        'aporte adicional de nutrientes para complementar la dieta base.',
+    },
+    {
+      termino: 'Sostenibilidad',
+      significado:
+        'producción eficiente mediante el uso responsable de recursos naturales y económicos.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'registro que permite identificar el manejo y el suministro de alimentos en la producción.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Instituto Colombiano Agropecuario. (2011). Las buenas prácticas en producción porcícola.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (2020). Resolución 76509 de 2020. Por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción porcina.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (s. f.). Grupo de Inocuidad en la Producción Pecuaria Primaria y Bienestar Animal.',
+      link: '',
+    },
+    {
+      referencia:
+        'National Research Council. (2012). Nutrient requirements of swine (11th rev. ed.). The National Academies Press.',
       link: '',
     },
   ],
@@ -320,11 +407,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Olga Constanza Bermúdez',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
@@ -334,9 +422,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernan Tejada Llano',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -344,20 +439,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cristian Fernando Martínez Sánchez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -367,13 +492,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
