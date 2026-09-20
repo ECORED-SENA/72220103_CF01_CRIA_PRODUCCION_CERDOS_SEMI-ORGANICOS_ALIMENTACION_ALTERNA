@@ -19,7 +19,7 @@
                 img(src='@/assets/curso/temas/t4/img1.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Residuos orgánicos
-              p.mb-0 Los #[b residuos orgánicos] son aquellos de origen biológico y biodegradable, como excretas, orina, restos de alimento, camas usadas, residuos vegetales y material proveniente del mantenimiento de corrales o zonas verdes. Constituyen una parte importante de los residuos generados en la producción porcina y, cuando se manejan adecuadamente, pueden aprovecharse mediante compostaje, aboneras o biodigestores.
+              p.mb-0 Los #[b residuos orgánicos] son aquellos de origen biológico y biodegradables, como excretas, orina, restos de alimento, camas usadas, residuos vegetales y material proveniente del mantenimiento de corrales o zonas verdes. Constituyen una parte importante de los residuos generados en la producción porcina y, cuando se manejan adecuadamente, pueden aprovecharse mediante compostaje, aboneras o biodigestores.
         .py-3.py-md-4(titulo="Residuos inorgánicos")
           .row.justify-content-center.align-items-center
             .col-xl-5.order-2.order-lg-1
@@ -58,7 +58,7 @@
       Separador
       #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.2 Clasificación y separación
-      p La clasificación y separación de residuos es el primer paso para desarrollar un manejo ambiental adecuado en la granja porcina. Consiste en identificar los residuos desde el momento en que se generan y ubicarlos en recipientes o áreas definidas según su naturaleza, nivel de riesgo y posibilidad de aprovechamiento.
+      p La clasificación y separación de residuos son el primer paso para desarrollar un manejo ambiental adecuado en la granja porcina. Consiste en identificar los residuos desde el momento en que se generan y ubicarlos en recipientes o áreas definidas según su naturaleza, nivel de riesgo y posibilidad de aprovechamiento.
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           p Esta práctica facilita el tratamiento, reduce la contaminación cruzada y mejora el control sanitario del predio. En términos generales, los residuos pueden organizarse en #[b orgánicos aprovechables, inorgánicos reciclables, no aprovechables y residuos de riesgo sanitario].
@@ -161,7 +161,7 @@
       .row.align-items-center.mb-5
         .col-xl
           p En la producción porcina semi-orgánica, el aprovechamiento de residuos constituye una estrategia importante para mejorar la sostenibilidad del sistema y disminuir el impacto ambiental. Cuando los residuos orgánicos se manejan correctamente, pueden convertirse en insumos útiles para la fertilización de cultivos, la generación de energía o el mejoramiento del suelo.
-          p.mb-5Las excretas porcinas, por ejemplo, pueden utilizarse como materia prima para procesos de compostaje o biodigestión, mediante los cuales se obtienen abonos orgánicos y, en algunos casos, biogás. Los restos vegetales, las camas y otros materiales biodegradables también pueden incorporarse a procesos de compostaje, siempre que no estén contaminados con sustancias químicas o agentes infecciosos. Este aprovechamiento permite cerrar ciclos dentro de la finca, integrar la producción animal y agrícola y reducir costos relacionados con la fertilización. Sin embargo, el uso de estos residuos requiere control técnico.
+          p.mb-5 Las excretas porcinas, por ejemplo, pueden utilizarse como materia prima para procesos de compostaje o biodigestión, mediante los cuales se obtienen abonos orgánicos y, en algunos casos, biogás. Los restos vegetales, las camas y otros materiales biodegradables también pueden incorporarse a procesos de compostaje, siempre que no estén contaminados con sustancias químicas o agentes infecciosos. Este aprovechamiento permite cerrar ciclos dentro de la finca, integrar la producción animal y agrícola y reducir costos relacionados con la fertilización. Sin embargo, el uso de estos residuos requiere control técnico.
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t4/img16.png", alt="" style="width: 500px").m-auto

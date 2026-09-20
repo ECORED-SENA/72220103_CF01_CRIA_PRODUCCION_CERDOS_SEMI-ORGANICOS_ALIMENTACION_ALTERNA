@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 6
         h1 Evaluación y seguimiento del programa de alimentación
-      p La evaluación y el seguimiento del programa de alimentación en la producción porcina permiten determinar si la ración suministrada, la frecuencia de alimentación, el consumo real, el pesaje y el manejo de residuos se ejecutan conforme al plan técnico de la explotación. Este proceso es indispensable porque la alimentación representa uno de los costos más altos del sistema porcino y, al mismo tiempo, constituye uno de los factores que más incide en el crecimiento, la conversión alimenticia, la reproducción, la sanidad, el bienestar animal y la inocuidad del producto final.
+      p La evaluación y el seguimiento del programa de alimentación en la producción porcina permiten determinar si la ración suministrada, la frecuencia de alimentación, el consumo real, el pesaje y el manejo de residuos se ejecutan conforme al plan técnico de la explotación. Este proceso es indispensable porque la alimentación representa uno de los costos más altos del sistema porcino y, al mismo tiempo, constituye uno de los factores que más inciden en el crecimiento, la conversión alimenticia, la reproducción, la sanidad, el bienestar animal y la inocuidad del producto final.
       .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t6/img1.jpg')})` }")
