@@ -33,7 +33,7 @@
       p.mb-5 A continuación, se presenta un video sobre la importancia del plan de alimentación en la producción porcina semi-orgánica, destacando su papel en el aprovechamiento eficiente de los recursos, el bienestar animal y el cumplimiento de las Buenas Prácticas Ganaderas.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/nE9lMYSTtF0?si=sKW_meVly7nzPcL7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Importancia del plan de alimentación en la producción porcina semi-orgánica
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
