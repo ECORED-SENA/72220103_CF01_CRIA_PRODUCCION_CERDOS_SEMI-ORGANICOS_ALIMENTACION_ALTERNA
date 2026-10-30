@@ -207,7 +207,7 @@
             h4 Programa de alimentación porcina 
             p.mb-0 Se invita a leer el documento #[b Programa de alimentación porcina], donde se aborda el diseño de registros para la evaluación y seguimiento de un programa de alimentación porcina.
           .col-xl-2
-            a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexos/Anexo_01_Registros_alimentacion_porcina.docx')" target="_blank" type="application/pdf")
+            a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/Anexo_01_Registros_alimentacion_porcina.pdf')" target="_blank" type="application/pdf")
               span Descargar
               i.fas.fa-file-download
 
